@@ -15,6 +15,7 @@ const loginRouter= require('./routes/auth');
 const refreshRouter= require('./routes/refresh');
 const subdirRouter= require('./routes/subdir');
 const employeesRouter= require('./routes/api/employees');
+const logoutRouter= require('./routes/logout')
 
 //port number
 const PORT = process.env.PORT || 5000;
@@ -41,6 +42,7 @@ app.use('/', rootRouter);
 app.use('/register', registerRouter);
 app.use('/login', loginRouter);
 app.use('/refresh', refreshRouter)
+app.use('/logout', logoutRouter)
 
 app.use(verifyJWT)
 //here since we want user to access the home page and 

@@ -1,1 +1,19 @@
-[{"username":"Shubhom","pwd":"$2b$10$AUk2j/azlsG4dhesv.cufedCVrBgAlKfu3GE4J.1bud3SMHp6w.3e","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNodWJob20iLCJpYXQiOjE2NzIzMTk2MDIsImV4cCI6MTY3MjQwNjAwMn0.Szne4VpyiAZNTr65Z-GZvoBdJ5FYtjO6DAt6FSLXBDk"}]
+[
+  {
+    "username": "Shubhom",
+    "pwd": "$2b$10$AUk2j/azlsG4dhesv.cufedCVrBgAlKfu3GE4J.1bud3SMHp6w.3e",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNodWJob20iLCJpYXQiOjE2NzIzMTk2MDIsImV4cCI6MTY3MjQwNjAwMn0.Szne4VpyiAZNTr65Z-GZvoBdJ5FYtjO6DAt6FSLXBDk"
+  },
+  {
+    "username": "shivom",
+    "pwd": "$2b$10$d6x8MZH7TG7CERyrP.62DO3g85/tZJP.7yE9Dq90SOXpHvAFwJ3Xa",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNoaXZvbSIsImlhdCI6MTY3Mjc2ODgwOCwiZXhwIjoxNjcyODU1MjA4fQ.RuNWZdnTNURRq7_4bQ0eL3Cg-YNofukGHnh3E06O79g",
+    "otherUsers": [
+      {
+        "username": "Shubhom",
+        "pwd": "$2b$10$AUk2j/azlsG4dhesv.cufedCVrBgAlKfu3GE4J.1bud3SMHp6w.3e",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNodWJob20iLCJpYXQiOjE2NzIzMTk2MDIsImV4cCI6MTY3MjQwNjAwMn0.Szne4VpyiAZNTr65Z-GZvoBdJ5FYtjO6DAt6FSLXBDk"
+      }
+    ]
+  }
+]
